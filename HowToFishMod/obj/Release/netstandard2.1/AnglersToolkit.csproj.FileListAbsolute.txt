@@ -1,0 +1,10 @@
+C:\Users\ivand\HowToFishMod\bin\Release\netstandard2.1\AnglersToolkit.deps.json
+C:\Users\ivand\HowToFishMod\bin\Release\netstandard2.1\AnglersToolkit.dll
+C:\Users\ivand\HowToFishMod\bin\Release\netstandard2.1\AnglersToolkit.pdb
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.1\AnglersToolkit.csproj.AssemblyReference.cache
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.1\AnglersToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.1\AnglersToolkit.AssemblyInfoInputs.cache
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.1\AnglersToolkit.AssemblyInfo.cs
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.1\AnglersToolkit.csproj.CoreCompileInputs.cache
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.1\AnglersToolkit.dll
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.1\AnglersToolkit.pdb

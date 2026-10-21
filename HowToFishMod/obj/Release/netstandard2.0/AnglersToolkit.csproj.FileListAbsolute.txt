@@ -1,0 +1,5 @@
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.0\AnglersToolkit.csproj.AssemblyReference.cache
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.0\AnglersToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.0\AnglersToolkit.AssemblyInfoInputs.cache
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.0\AnglersToolkit.AssemblyInfo.cs
+C:\Users\ivand\HowToFishMod\obj\Release\netstandard2.0\AnglersToolkit.csproj.CoreCompileInputs.cache
